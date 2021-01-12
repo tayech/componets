@@ -1,0 +1,23 @@
+body{
+margin: 0;
+padding:0;
+background-image: url(https://lh3.googleusercontent.com/proxy/7KobDQEABw6Y-NOWZJAqeyxV13UB0zRnqoBiIU2FEe0dTtxmKVgEy3oThipwYRw3Zrx4aVTYqOOhVFZ0Q6vw57S5_5niDb6sqzqwt7oTodpZ9FNlhPArIRLuRv34rpLH6ESdKuLS1wCIcZWoSfY0DXL4GREzziMB8lQQ);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.App{
+    display: block;
+    background-color: black;
+    border-radius: 10px;
+    opacity: 70%;
+    width: 33%;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    margin-left: 33%;
+    margin-top: 150px;
+    margin-bottom: 50px;
+    position: relative;
+
+}
